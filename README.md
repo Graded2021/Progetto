@@ -1,2 +1,2 @@
-#Riconsocimento_Dispositivo_di_protezione_individuale
+# Riconsocimento
 https://graded2021.github.io/Progetto/
